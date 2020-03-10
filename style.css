@@ -1,7 +1,7 @@
 body { 
-    background-color: darkslategrey;
+    background-color: darkslategrey; /*Hintergrundfarbe*/
     display: flex;
-    align-items: center;
+    align-items: center; /*Zentrieren*/
       
     font-family: Arial, Helvetica, sans-serif; 
 }
@@ -10,7 +10,7 @@ body {
 font-size: 100%;}
 .title{color: black;
     
-    font-size: 250%;}
+    font-size: 250%;} /*shdfsfh*/
 .title2
 {color: black;
     text-align: center; 
@@ -24,3 +24,7 @@ font-size: 100%;}
     text-align: center; 
     font-size: 90%;}
     
+.Bild1{
+    width: 50%;
+    height: 50%
+}
