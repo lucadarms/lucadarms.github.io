@@ -5,21 +5,22 @@ body {
       
     font-family: Arial, Helvetica, sans-serif; 
 }
-#Text {color: black;
+.text {color: black;
     text-align: center; 
 font-size: 100%;}
 #title{color: black;
     
     font-size: 250%;}
-#title2
+.title2
 {color: black;
     text-align: center; 
     font-size: 200%;}
-#title3
+.title3
 {color: black;
     text-align: center; 
     font-size: 150%;}
-#Bildunterschrift
+.bildunterschrift
 {color: black;
     text-align: center; 
     font-size: 90%;}
+    
