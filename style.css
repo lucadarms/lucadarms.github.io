@@ -24,28 +24,28 @@ font-size: 100%;}
     text-align: center; 
     font-size: 90%;}
     
-.Bild1{
+#Bild1{
     width: 50%;
 }
-.Bild2{
+#Bild2{
     width: 12.5%;
 }
-.Bild3{
+#Bild3{
     width: 200%;
 }
-.Bild4{
+#Bild4{
     width: 200%;
 }
-.Bild5{
+#Bild5{
     width: 50%;
 }
-.Bild6{
+#Bild6{
     width: 25%;
 }
-.Bild7{
+#Bild7{
     width: 50%;
 }
-.Bild8{
+#Bild8{
     width: 120%;
 }
 
