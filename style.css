@@ -1,6 +1,6 @@
 body { 
     background-color: darkslategrey; /*Hintergrundfarbe*/
-    display: flex;
+    display: flex; 
     align-items: center; /*Zentrieren*/
       
     font-family: Arial, Helvetica, sans-serif; 
@@ -10,7 +10,7 @@ body {
 font-size: 100%;}
 .title{color: black;
     
-    font-size: 250%;} /*shdfsfh*/
+    font-size: 250%;} /*hier sind Schriftgrössen und Bildgrössen definiert*/
 .title2
 {color: black;
     text-align: center; 
