@@ -5,6 +5,9 @@ body {
     align-items: center; /*Zentrieren flex und zenter machen das man von rechts nachlinks scrollt statt von oben nach unten.*/
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    min-height: 100vh;
+overflow-x: hidden;
+}
 }
 .text {color: black;
     text-align: center; 
@@ -52,4 +55,17 @@ font-size: 100%;}
 #titel{
     border-width: 10% ;
 }
+#navbar{
+width: 100%;
+background-color: cadetblue;
+border-bottom: 1px solid cornflowerblue;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 10px 30px;
+box-sizing: border-box;}
 
+.links {
+    display: flex;
+    list-style: none;
+}
