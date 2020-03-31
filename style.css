@@ -1,15 +1,10 @@
-*{
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif; 
+body { 
+    background-color: darkslategrey; /*Hintergrundfarbe*/
+    color: black;   
     display: flex; 
     align-items: center; /*Zentrieren flex und zenter machen das man von rechts nachlinks scrollt statt von oben nach unten.*/
-}
-body { 
-    font-size: 1em;
-    background-color: darkslategrey; /*Hintergrundfarbe*/
-
-      
-    
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .text {color: black;
     text-align: center; 
